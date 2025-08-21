@@ -1,7 +1,7 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib
 
 # ==========================
 # DB CONNECTION
